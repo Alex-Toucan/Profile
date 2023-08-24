@@ -6,6 +6,7 @@ Clone the repository (Git): `clone https://github.com/Savageboitim13/Profile.git
 Run `npm install` in your CLI to install all dev-dependencies.
 
 ### Projects
+- [ ] THE CODINGHOME BOT
 - [ ] In progress...
 
 ### Sheets
